@@ -76,6 +76,14 @@ If something goes wrong or does not work, the lovely people of this Discord will
 
 
 
+
+
+
+
+
+
+
+
 guide for installing/using PemukulPaku.
 
 PemukulPaku is a Hi3 private server written with C#, made by rafi1212122 and contributors (sinsofseven,kyle873, and others in github https://github.com/Sycamore0/PemukulPaku/graphs/contributors)
